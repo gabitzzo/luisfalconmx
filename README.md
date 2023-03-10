@@ -1,14 +1,8 @@
-<h1 align="left">👋 Hey there, It's Luis Falcon.</h1>
+# 👋 Hey there, It's Luis Falcon.
 
-###
+Developer passionate about Frontend, UI interface design and JavaScript. I never stop learning about technology and web development at Platzi, an effective online education platform. I love everything related to Open Source, tech communities and video games. I participate in events like Hacktoberfest, JS Conf, Next JS Conf, among others.
 
-<p align="left">Developer passionate about Frontend, UI interface design and JavaScript. I never stop learning about technology and web development at Platzi, an effective online education platform. I love everything related to Open Source, tech communities and video games. I participate in events like Hacktoberfest, JS Conf, Next JS Conf, among others.</p>
-
-###
-
-<h2 align="left">Technologies</h2>
-
-###
+## Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
